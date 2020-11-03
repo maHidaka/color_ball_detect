@@ -4,6 +4,9 @@
 
 hsv 色空間で認識
 
+[![](http://img.youtube.com/vi/PoXrVRAH_i8/0.jpg)](http://www.youtube.com/watch?v=PoXrVRAH_i8 "")
+
+
 r、y、b キー押下でその間それぞれの検出マスクを表示
 esc キー長押しで終了
 
