@@ -4,7 +4,7 @@
 
 hsv 色空間で認識
 
-↓動画
+動画
 [![](http://img.youtube.com/vi/PoXrVRAH_i8/0.jpg)](http://www.youtube.com/watch?v=PoXrVRAH_i8 "")
 
 
